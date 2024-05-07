@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 💬 Ask me about **MERN Stack Development**
+- 💬 Ask me about **MERN Stack Web Development**
 
 - 📫 How to reach me **sharma08462@gmail.com**
 
