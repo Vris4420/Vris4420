@@ -37,11 +37,15 @@
   <a href="http://www.github.com/Vris4420">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vris4420&theme=merko&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
   </a>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vris4420&show_icons=true&locale=en&layout=compact" alt="vris4420" /></p>
-</div>
-<hr>
-
-<hr>
+  <p style="text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vris4420&show_icons=true&locale=en&layout=compact" alt="vris4420" />
+  </p>                                       
+  
+</div>                    
+                      
+  
+                    
+  
 
 
                                                                                                     
