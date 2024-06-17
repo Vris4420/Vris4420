@@ -49,7 +49,7 @@
 <hr>
 🚢 &nbsp;<a href="#" class="scrollUpButton">Let's Sail Again</a> <br/>
 <b> <i align="left">Hey, you have reached the bottom of my profile. If you have loved my works, make sure to star them and contribute to the projects or fork them if you want to re-use them. Also, you can visit my socials and share some love there. I wish you an amazing day ahead and till then keep learning and keep exploring.</i> </b>
-<img src ="https://github.com/Swpn0neel/Swpn0neel/blob/main/assests/bottom.svg">
+<img src ="https://github.com/Vris4420/Vris4420/blob/main/bottom.svg">
 <hr>
 
                     
