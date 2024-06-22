@@ -40,8 +40,12 @@
           <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vris4420&show_icons=true&locale=en&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="vris4420" />
         </p>
       </td>
+      <td width="45%">
+        [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,arduino,bash,bootstrap,c,cpp,cmake,d3,express,figma,git,github,heroku,java,jquery,materialui,mongodb,mysql,nextjs,nodejs,py,react,redis,redux,ts&perline=7)](https://skillicons.dev)
+      </td>
     </tr>
   </table>
+  
   <a href="http://www.github.com/Vris4420">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vris4420&theme=merko&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
   </a>
