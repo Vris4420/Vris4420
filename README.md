@@ -16,7 +16,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bash,bootstrap,c,cpp,express,figma,git,github,java,jquery,materialui,mongodb,mysql,nextjs,nodejs,py,react,redux,ts&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,c,cpp,express,figma,git,github,java,materialui,mongodb,mysql,nextjs,nodejs,py,react,redux,ts&perline=7)](https://skillicons.dev)
 
 <hr/>
 
@@ -40,9 +40,6 @@
         <p style="text-align: center;">
           <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vris4420&show_icons=true&locale=en&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="vris4420" />
         </p>
-      </td>
-      <td width="45%">
-      
       </td>
     </tr>
   </table>
