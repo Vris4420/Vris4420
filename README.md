@@ -36,7 +36,7 @@
       </td>
     </tr>
     <tr>
-      <td width="45%">
+      <td width="90%">
         <p style="text-align: center;">
           <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vris4420&show_icons=true&locale=en&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="vris4420" />
         </p>
