@@ -41,7 +41,7 @@
         </p>
       </td>
       <td width="45%">
-       
+       (https://skillicons.dev/icons?i=html,css,js,react,arduino,bash,bootstrap,c,cpp,cmake,d3,express,figma,git,github,heroku,java,jquery,materialui,mongodb,mysql,nextjs,nodejs,py,react,redis,redux,ts&perline=7)](https://skillicons.dev)
       </td>
     </tr>
   </table>
